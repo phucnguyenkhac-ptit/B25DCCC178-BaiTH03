@@ -1,0 +1,23 @@
+// Tên tiếng Việt theo mã sản phẩm trong danh mục Fake Store API.
+export const productTitlesVi: Partial<Record<number, string>> = {
+  1: 'Balo Fjällräven Foldsack số 1 cho laptop 15 inch',
+  2: 'Áo thun nam dài tay dáng ôm cao cấp',
+  3: 'Áo khoác cotton nam',
+  4: 'Áo thun nam dài tay dáng ôm',
+  5: 'Vòng tay nữ John Hardy Legends Naga họa tiết rồng, vàng và bạc',
+  6: 'Nhẫn vàng bản nhỏ đính đá li ti',
+  7: 'Nhẫn nữ Princess mạ vàng trắng',
+  8: 'Khuyên tai nong Pierced Owl bằng thép 316L mạ vàng hồng',
+  9: 'Ổ cứng di động WD Elements 2 TB, USB 3.0',
+  10: 'Ổ cứng SanDisk SSD PLUS 1 TB, SATA III',
+  11: 'Ổ SSD Silicon Power A55 256 GB, SATA III 2,5 inch',
+  12: 'Ổ cứng di động WD Gaming Drive 4 TB cho PS4',
+  13: 'Màn hình Acer SB220Q bi 21,5 inch Full HD IPS',
+  14: 'Màn hình cong chơi game Samsung CHG90 49 inch, QLED 144 Hz',
+  15: 'Áo khoác trượt ván tuyết nữ BIYLACLESEN 3 trong 1',
+  16: 'Áo khoác giả da nữ Lock and Love, mũ tháo rời',
+  17: 'Áo khoác đi mưa nữ có mũ, lót sọc',
+  18: 'Áo thun nữ MBJ tay ngắn cổ thuyền',
+  19: 'Áo thể thao nữ Opna tay ngắn thoát ẩm',
+  20: 'Áo thun cotton nữ DANVOUY tay ngắn cổ chữ V',
+}
